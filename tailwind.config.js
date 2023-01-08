@@ -4,7 +4,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'main-bg': "#F9F7F3"
+        'mainbg': "#F9F7F3",
+        'altbg': "#F9F7F3",
+        'maintext': "#111111",
+        'alttext': "#F9F7F3",
+        'poptext': "#F9F7F3",
       }
     },
   },

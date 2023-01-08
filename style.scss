@@ -3,15 +3,15 @@
 @tailwind utilities;
 
 :root {
-
+    // Background Colors
+--mainbg: blanchedalmond;
+--altbg: salmon;
+// Text Colors
+--maintext: #111;
+--alttext: blue;
+--poptext: yellow;
 }
 
 body {
     background-color: blanchedalmond;
-    h1{
-        color: red;
-    }
-    p{
-        color: blue;
-    }
 }
