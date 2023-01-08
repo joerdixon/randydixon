@@ -1,11 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-:root {
-
-}
-
 body {
-    background-color: blanchedalmond;
+  background-color: blanchedalmond;
 }
+body h1 {
+  color: red;
+}
+body p {
+  color: blue;
+}
+
+/*# sourceMappingURL=style.css.map */

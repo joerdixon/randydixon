@@ -2,7 +2,10 @@ import React from 'react';
 
 function Nav() {
     return(
-        <h1>Navigation</h1>
+        <div>
+            <h1>Navigation</h1>
+            <p>Test</p>
+        </div>
     )
 }
 
