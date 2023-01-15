@@ -41,25 +41,36 @@ table {
 }
 
 input {
-  -webkit-appearance: none;
   border-radius: 0;
 }
 
 #nav {
   background-color: black;
   color: white;
-  font-size: 1.7rem;
+  font-size: 1.1rem;
   height: 80px;
+  margin: 0 auto;
+  padding: 20px 50px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
+  align-items: center;
 }
-#nav a {
+
+.nav-link {
+  padding: 0 20px;
+  color: white;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  text-decoration: none;
+}
+
+#nav-name {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   color: white;
   text-decoration: none;
 }
 
 body {
-  background-color: blanchedalmond;
+  background-color: #111;
 }
 
 /*# sourceMappingURL=output.css.map */
