@@ -1,12 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-
-@layer components {
-  
-  body {
+ body {
     background-color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
   }
-  
-}
