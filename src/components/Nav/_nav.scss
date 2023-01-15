@@ -1,0 +1,18 @@
+// Nav Bar
+#nav {
+    // Deco
+    background-color: black;
+    color: white;
+    // Layout
+    font-size: 1.7rem;
+    height: 80px;
+    // Flex Settings
+    display: flex;
+    justify-content: space-evenly;
+
+    // Nav Links
+    a {
+        color: white;
+        text-decoration: none;
+    }
+}

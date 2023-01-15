@@ -1,12 +1,12 @@
 import React from "react";
-import './style.css';
+import './output.css';
 // Component Imports
-import Nav from './components/Navigation/Nav.jsx'
-import Hero from './components/Section/Hero.jsx'
-import About from './components/Section/About.jsx'
-import Classes from './components/Section/Classes.jsx'
-import Shows from './components/Section/Shows.jsx'
-import Contact from './components/Section/Contact.jsx'
+import Nav from './components/Nav/Nav.jsx'
+import Hero from './components/Section/Hero/Hero.jsx'
+import About from './components/Section/About/About.jsx'
+import Classes from './components/Section/Classes/Classes.jsx'
+import Shows from './components/Section/Shows/Shows.jsx'
+import Contact from './components/Section/Contact/Contact.jsx'
 
 export default () => (
   <>    

@@ -1,0 +1,12 @@
+//  Sass Partials
+ @use './reset';
+ @use './components/Nav/nav';
+ @use './components/Section/Hero/hero';
+ @use './components/Section/About/about';
+ @use './components/Section/Classes/classes';
+ @use './components/Section/Shows/shows';
+ @use './components/Section/Contact/contact';
+ 
+ body {
+    background-color: blanchedalmond;
+  }
