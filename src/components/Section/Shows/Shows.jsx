@@ -1,9 +1,11 @@
 import React from 'react';
 
 function Shows() {
-return(
-<h1>Functional Shows</h1>
-)
+    return (
+        <div id='shows'>
+            <h1>Functional Shows</h1>
+        </div>
+    )
 };
 
 export default Shows;
