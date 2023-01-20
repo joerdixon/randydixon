@@ -1,3 +1,5 @@
+// The contact section will contain links to anywhere Randy can be found including LinkedIn, Email (and Phone?).
+
 import React from 'react';
 
 function Contact() {

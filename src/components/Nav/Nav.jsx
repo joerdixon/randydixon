@@ -1,3 +1,5 @@
+// Navigation will be visible throughout the site and allow users to visit whatever portion they want.
+
 import React from 'react';
 
 function Nav() {

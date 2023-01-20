@@ -1,3 +1,5 @@
+// The Hero will be a purely visual display of Randy Dixon to introduce the visitor.
+
 import React from 'react';
 
 function Hero() {
