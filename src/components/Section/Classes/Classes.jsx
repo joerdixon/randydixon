@@ -6,6 +6,7 @@ function Classes() {
     return (
         <section id="classes">
             <h1>Functional Classes</h1>
+            <div id='class-container'></div>
         </section>
     )
 };

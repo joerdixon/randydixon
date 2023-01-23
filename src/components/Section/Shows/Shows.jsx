@@ -6,6 +6,7 @@ function Shows() {
     return (
         <section id='shows'>
             <h1>Functional Shows</h1>
+            <div id="shows-container"></div>
         </section>
     )
 };
