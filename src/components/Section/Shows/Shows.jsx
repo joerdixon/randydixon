@@ -4,9 +4,9 @@ import React from 'react';
 
 function Shows() {
     return (
-        <div id='shows'>
+        <section id='shows'>
             <h1>Functional Shows</h1>
-        </div>
+        </section>
     )
 };
 

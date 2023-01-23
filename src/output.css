@@ -69,6 +69,10 @@ input {
   text-decoration: none;
 }
 
+.bio-content {
+  color: white;
+}
+
 body {
   background-color: #111;
 }
