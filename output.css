@@ -20,6 +20,8 @@ footer, header, nav, section, main {
 
 body {
   line-height: 1;
+  background-color: #111;
+  color: white;
 }
 
 ol, ul {
@@ -71,10 +73,6 @@ input {
 
 .bio-content {
   color: white;
-}
-
-body {
-  background-color: #111;
 }
 
 /*# sourceMappingURL=output.css.map */
