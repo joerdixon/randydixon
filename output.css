@@ -20,8 +20,6 @@ footer, header, nav, section, main {
 
 body {
   line-height: 1;
-  background-color: #111;
-  color: white;
 }
 
 ol, ul {
@@ -71,7 +69,29 @@ input {
   text-decoration: none;
 }
 
+#hero {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+#hero-image {
+  width: 100%;
+}
+
+#hero-name {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  color: white;
+}
+
 .bio-content {
+  color: white;
+}
+
+body {
+  background-color: #111;
   color: white;
 }
 

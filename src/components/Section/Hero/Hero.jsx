@@ -6,8 +6,8 @@ function Hero() {
     return (
         <section id='hero'>
             {/* TODO: Replace with hero image */}
-            <img src="https://dummyimage.com/1900x16:7" alt="" />
-            <h1>Randy Dixon</h1>
+            <img id='hero-image' src="https://dummyimage.com/1900x16:7" alt="A headshot of Randy Dixon" />
+            <div id="hero-name">Randy Dixon</div>
         </section>
     )
 }
