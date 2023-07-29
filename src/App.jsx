@@ -8,8 +8,6 @@ import Classes from './components/Section/Classes/Classes.jsx'
 import Shows from './components/Section/Shows/Shows.jsx'
 import Contact from './components/Section/Contact/Contact.jsx'
 
-// GH TEST
-
 export default () => (
   <>    
     <Nav />
